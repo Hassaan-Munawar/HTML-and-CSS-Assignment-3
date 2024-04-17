@@ -1,0 +1,52 @@
+.first {
+    display: inline-block;
+    width: 120px;
+    text-align: center;
+}
+
+img {
+    width: 80px;
+}
+
+select {
+    border-color: white;
+}
+
+button {
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+}
+
+#search {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Search_Icon.svg/1024px-Search_Icon.svg.png');
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+
+.second {
+    display: inline-block;
+    width: 190px;
+    text-align: center;
+}
+
+#biggest {
+    color: green;
+    font-size: 90px;
+    padding-left: 100px;
+}
+
+#image {
+    width: 350px;
+    margin-left: 200px;
+}
+
+div {
+    margin-left: 100px;
+}
+.third{
+    display: inline-block;
+    width: 120px;
+}
